@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="TCS230" enable-background="new 0 0 49.3 48.8"  version="1.1" xmlns:xml="http://www.w3.org/XML/1998/namespace" gorn="0" x="0px" y="0px" height="17.2mm" viewBox="0 0 49.3 48.8" width="17.39mm">
+    <desc >
+        <referenceFile >tcs230_sch.svg</referenceFile>
+    </desc>
+    <g id="sch"  gorn="0.1">
+        <rect  x="9.1" stroke="#000000" y="2.5" stroke-width="0.55" height="44.3" fill="none" stroke-miterlimit="10" width="31"/>
+        <g transform="matrix(1 0 0 1 18.1408 23.864)" >
+            <g >
+                <g >
+                    <text  font-family="OCRA" x="0" y="0" font-size="3">TCS230</text>
+                    <text  font-family="OCRA" x="0" y="3.6" font-size="3">Module</text>
+                </g>
+            </g>
+        </g>
+        <line  y1="6.8" y2="6.8" stroke="#000000" x1="40.1" stroke-width="0.5" x2="49.3" fill="none" stroke-miterlimit="10"/>
+        <line  y1="14" y2="14" stroke="#000000" x1="40.1" stroke-width="0.5" x2="49.3" fill="none" stroke-miterlimit="10"/>
+        <line  y1="6.8" y2="6.8" stroke="#000000" x1="0" stroke-width="0.5" x2="9.1" fill="none" stroke-miterlimit="10"/>
+        <line  y1="14" y2="14" stroke="#000000" x1="0" stroke-width="0.5" x2="9.1" fill="none" stroke-miterlimit="10"/>
+        <line  y1="6.8" y2="6.8" stroke="#000000" x1="40.1" stroke-width="0.5" x2="49.3" fill="none" stroke-miterlimit="10"/>
+        <line  y1="43.1" y2="43.1" stroke="#000000" x1="40.1" stroke-width="0.5" x2="49.3" fill="none" stroke-miterlimit="10"/>
+        <line  y1="35.9" y2="35.9" stroke="#000000" x1="0" stroke-width="0.5" x2="9.1" fill="none" stroke-miterlimit="10"/>
+        <line  y1="43.1" y2="43.1" stroke="#000000" x1="0" stroke-width="0.5" x2="9.1" fill="none" stroke-miterlimit="10"/>
+        <line  y1="35.9" y2="35.9" stroke="#000000" x1="40.1" stroke-width="0.5" x2="49.3" fill="none" stroke-miterlimit="10"/>
+        <g transform="matrix(1 0 0 1 11.4723 6.7585)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">Vcc</text>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 11.4726 14.0085)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">Gnd</text>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 11.4722 35.8835)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">OE</text>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 11.4721 43.1335)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">Out</text>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 33.7226 6.7585)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">S0</text>
+            </g>
+        </g>
+        <g transform="matrix(0.9984 -5.590402e-002 5.590402e-002 0.9984 33.7228 14.0086)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">S1</text>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 33.7221 35.8835)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">S2</text>
+            </g>
+        </g>
+        <g transform="matrix(1 0 0 1 33.7223 43.1335)" >
+            <g >
+                <text  font-family="OCRA" font-size="3">S3</text>
+            </g>
+        </g>
+        <rect id="connector1pin"  gorn="0.1.19" x="0" stroke="#000000" y="0" stroke-width="0.5" height="49.3" fill="none" stroke-miterlimit="10" width="49.3"/>
+    </g>
+</svg>

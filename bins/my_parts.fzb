@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="LM2596 step down module_94a7640b92a35c772ce8d1bf1932fa29_2" modelIndex="5925" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/LM2596 step down module_94a7640b92a35c772ce8d1bf1932fa29_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BH1750_27ff8a3c90bc7808d0b01da93474414b_13" modelIndex="5934" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/BH1750_27ff8a3c90bc7808d0b01da93474414b_13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPU-6050 GY-521_27d4eab32ad654bb2011bfb7d4e898dd_3" modelIndex="6137" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/MPU-6050 GY-521_27d4eab32ad654bb2011bfb7d4e898dd_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="fc-51_4124034653eaed0cf1470fedd5cc32ba_1" modelIndex="6625" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/fc-51_4124034653eaed0cf1470fedd5cc32ba_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="custom_light_bulb_b93e04d392a8a8730c070a12e1a72558_7" modelIndex="6983" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/custom_light_bulb_b93e04d392a8a8730c070a12e1a72558_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266 NodeMCU LoLin module_4ac350af3ac2fef357e535cbb2c0db8c_1" modelIndex="7003" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/ESP8266 NodeMCU LoLin module_4ac350af3ac2fef357e535cbb2c0db8c_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD1602-I2C" modelIndex="7136" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/LCD1602-I2C_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="keyes_7f310f9fdcd3e0c8ad5b1260a0d291d0_3" modelIndex="7364" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/keyes_7f310f9fdcd3e0c8ad5b1260a0d291d0_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="65e31feff426e0dde13a0544d0f93a7d" modelIndex="85473038" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/DHT22_Humidity_and_Temperature_Sensor__5a66c01a9adead9b6c488a2653070fb3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_4_b" modelIndex="85473046" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/raspberry_pi_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD2004-I2C" modelIndex="85473053" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/LCD2004-I2C.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP32 CAM_b1951f86b13cbdf373d52e48e77568c9_54" modelIndex="85474022" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/ESP32 CAM_b1951f86b13cbdf373d52e48e77568c9_54.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_7cfc4755b4d1f4c6483e89179b494273_1" modelIndex="85477005" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix0000_7cfc4755b4d1f4c6483e89179b494273_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Pzem-004t_1" modelIndex="85477323" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/Pzem-004t_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="zmpt101b_1" modelIndex="85477389" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/zmpt101b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="custom_light_bulb sm_2096488ac1dd3d5806b57796bb266aa9_5" modelIndex="85477791" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/custom_light_bulb sm_2096488ac1dd3d5806b57796bb266aa9_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="fc-51_85d98481ce3be6f2e9b641181c0f798b_1" modelIndex="85480009" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/fc-51_85d98481ce3be6f2e9b641181c0f798b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3019e57c757ab2964cbf9bdb9c8a8d45" modelIndex="85481171" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/DS3231MZ_Real_Time_Clock__26762cb9e1b00e744ca6eb3ef2ea5a77.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="adafruit_2733c17b59ee58d6fb19255d43d47d62_1" modelIndex="85481176" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/adafruit_2733c17b59ee58d6fb19255d43d47d62_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix100027_6e58e6f1d0be3d7b558c55dad4563983_3" modelIndex="85481287" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix100027_6e58e6f1d0be3d7b558c55dad4563983_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Pulse_Sensor_9b42ac4ae84eebb2bab0e9098e88835f_5" modelIndex="85481662" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/Pulse_Sensor_9b42ac4ae84eebb2bab0e9098e88835f_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2s-bms_1" modelIndex="85482196" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/2s-bms_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="UV_4a11ec6dc03c210b49b146cce5fc634e_4" modelIndex="85482214" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/UV_4a11ec6dc03c210b49b146cce5fc634e_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="41f4209de2050129a62e62f6e2389ac4" modelIndex="85482530" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/DHT11_Temperature_and_Humitidy_Sensor__c8d8589d35f4e2e6529ca1ed6d818736.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP32-38PinWide" modelIndex="85482547" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/ESP32-38PinWide.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Voltage-Sensor-25V_1" modelIndex="85483398" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/Voltage-Sensor-25V_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TDS_7a48f423f2b1da7b600493b867c5346e_2" modelIndex="85483425" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/TDS_7a48f423f2b1da7b600493b867c5346e_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="analog-ph-sensor_1" modelIndex="85488870" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/analog-ph-sensor_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="tds-sensor-meter-v1.0_1" modelIndex="85488875" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/tds-sensor-meter-v1.0_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DFPlayer Mini_3ffa85fa3a0182096f67124857804a14_5" modelIndex="85489211" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/DFPlayer Mini_3ffa85fa3a0182096f67124857804a14_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4a531c3119db2e1fd301cb1292e45937" modelIndex="85490903" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/PIR_sensor__723e9e78d3d1bdc76f4badecd521c4cb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ssr-40va-ss-relay_1" modelIndex="85491801" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/ssr-40va-ss-relay_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="adafruit_7fb367f44578f8b8c67e17f91938eab9_4" modelIndex="85494306" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/adafruit_7fb367f44578f8b8c67e17f91938eab9_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="current-transformer-pzct02_1" modelIndex="85500136" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/current-transformer-pzct02_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_9b7604e7c74acc1a36bb79940b62723b_1" modelIndex="85502277" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix0000_9b7604e7c74acc1a36bb79940b62723b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix101282_85a9b9975ae145223731c47225679bfe_5" modelIndex="85503100" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix101282_85a9b9975ae145223731c47225679bfe_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="max30102_1" modelIndex="85503960" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/max30102_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BTS7960_fa725ff37a9703cb78896f85b8b2375f_1" modelIndex="85505834" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/BTS7960_fa725ff37a9703cb78896f85b8b2375f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_642e08dceb3d1de4c31ea2bcfb635c6f_1" modelIndex="85509016" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix0000_642e08dceb3d1de4c31ea2bcfb635c6f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TS-300B-interface_1" modelIndex="85509217" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/TS-300B-interface_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TS-300B-sensor_1" modelIndex="85509222" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/TS-300B-sensor_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10245_load_sensor_strain_gauge_492e7235e5ceafb2b9d8cbf1a61edf4a_6" modelIndex="85510867" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/10245_load_sensor_strain_gauge_492e7235e5ceafb2b9d8cbf1a61edf4a_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_ee50e469185ecdd213bc4667263c7a71_1" modelIndex="85510903" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix0000_ee50e469185ecdd213bc4667263c7a71_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega2560 R3 Pro Mini_6a6c99e0a85c3764dc2160d0a6dd4467_2" modelIndex="85511446" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/Mega2560 R3 Pro Mini_6a6c99e0a85c3764dc2160d0a6dd4467_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix101209_93e9fe6474e28fbcc668c6dd897d783e_8" modelIndex="85511719" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/prefix101209_93e9fe6474e28fbcc668c6dd897d783e_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Nextion 2.4 LCD_91b74dedb67f6fa048d6c00ab0db925d_47" modelIndex="85511906" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/Nextion 2.4 LCD_91b74dedb67f6fa048d6c00ab0db925d_47.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2ChannelRelay_129217c8947f3fd792dd6483a1c71e2e_24" modelIndex="85515210" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/2ChannelRelay_129217c8947f3fd792dd6483a1c71e2e_24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPS20N0040D_Module" modelIndex="85515922" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/MPS20N0040D_Module.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="dc-01-sensor_1" modelIndex="85519127" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/dc-01-sensor_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="advancer-muscle-sensor-v3_1" modelIndex="85519174" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/advancer-muscle-sensor-v3_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

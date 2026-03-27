@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  width="0.405819in" enable-background="new 0 0 29.219 131.04" version="1.1" y="0px" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace" x="0px" height="1.82in" viewBox="0 0 29.219 131.04">
+    <desc>
+        <referenceFile>Camdenboss_CTB0158-9_5_08mm_pitch_90deg_terminals_pcb.svg</referenceFile>
+    </desc>
+    <g  id="silkscreen" gorn="0.0">
+        <line x1="0.36" y2="130.68"  stroke="#000000" stroke-width="0.75" x2="0.36" id="vertical-left" fill="none" y1="0.36" gorn="0.0.0"/>
+        <line x1="0.36" y2="130.68"  stroke="#000000" stroke-width="0.75" x2="28.86" id="bottom" fill="none" y1="130.68" gorn="0.0.1"/>
+        <line x1="28.86" y2="0.36"  stroke="#000000" stroke-width="0.75" x2="28.86" id="vertical-right" fill="none" y1="130.68" gorn="0.0.2"/>
+        <line x1="28.86" y2="0.36"  stroke="#000000" stroke-width="0.75" x2="0.36" id="top" fill="none" y1="0.36" gorn="0.0.3"/>
+        <line x1="18.605" y2="0.36"  stroke="#000000" stroke-width="0.75" x2="18.605" id="mid-vertical" fill="none" y1="130.68" gorn="0.0.4"/>
+    </g>
+    <g  id="cooper0" gorn="0.1">
+        <g  id="copper1" gorn="0.1.0">
+            <g  id="connector0pin" gorn="0.1.0.0">
+                <rect  stroke="#F7BD13" stroke-width="1.44" width="4.32" id="square" fill="none" gorn="0.1.0.0.0" y="5.76" x="2.16" height="4.32"/>
+                <circle  stroke="#F7BD13" stroke-width="1.44" fill="none" cy="7.92" cx="4.32" r="2.16"/>
+            </g>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector4pin" fill="none" cy="65.52" gorn="0.1.0.1" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector1pin" fill="none" cy="22.32" gorn="0.1.0.2" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector2pin" fill="none" cy="36.72" gorn="0.1.0.3" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector3pin" fill="none" cy="51.12" gorn="0.1.0.4" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector5pin" fill="none" cy="79.92" gorn="0.1.0.5" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector6pin" fill="none" cy="94.32" gorn="0.1.0.6" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector7pin" fill="none" cy="108.72" gorn="0.1.0.7" cx="4.32" r="2.16"/>
+            <circle  stroke="#F7BD13" stroke-width="1.44" id="connector8pin" fill="none" cy="123.12" gorn="0.1.0.8" cx="4.32" r="2.16"/>
+        </g>
+    </g>
+</svg>

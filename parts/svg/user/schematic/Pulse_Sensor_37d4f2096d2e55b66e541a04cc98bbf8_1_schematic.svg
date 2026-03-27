@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1"  x="0px" xml:space="preserve" y="0px" version="1.1" gorn="0" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="10.731431mm" enable-background="new 0 0 51.1 29.52" width="18.263447mm" viewBox="0 0 51.770417 30.419803">
+    <metadata id="metadata58" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs56" />
+    <desc id="desc3" >
+        <referenceFile >Pulse_Sensor_9b42ac4ae84eebb2bab0e9098e88835f_5_schematic.svg</referenceFile>
+    </desc>
+    <g  transform="translate(0.327737,-324.26784)">
+        <g id="g41"  gorn="0.3.0">
+            <g id="g39"  gorn="0.3.0.0">
+                <g id="g37"  gorn="0.3.0.0.0">
+                    <g id="g35"  gorn="0.3.0.0.0.0">
+                        <g id="schematic"  gorn="0.3.0.0.0.0.0">
+                            <g id="g32"  gorn="0.3.0.0.0.0.0.0">
+                                <g id="g30"  gorn="0.3.0.0.0.0.0.0.0">
+                                    <g id="layer1"  gorn="0.3.0.0.0.0.0.0.0.0">
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="12.288" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.0" font-style="normal" stroke-linejoin="miter" id="text4192" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4194" font-size="4.00000095"  x="19.58465" y="337.73752" text-anchor="middle" gorn="0.3.0.0.0.0.0.0.0.0.0.0" text-align="center">Pulse</text>
+                                            <text id="tspan4196" font-size="4.00000095"  x="19.58465" y="342.73752" text-anchor="middle" gorn="0.3.0.0.0.0.0.0.0.0.0.1" text-align="center">Sensor</text>
+                                        </g>
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="2.56" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.1" font-style="normal" stroke-linejoin="miter" id="text4198" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4200"  x="41.953167" y="340.34665" gorn="0.3.0.0.0.0.0.0.0.0.1.0" fill="#696969">Signal</text>
+                                        </g>
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="2.56" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.2" font-style="normal" stroke-linejoin="miter" id="text4202" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4204" font-size="4.00000095"  x="4.6962495" y="330.74533" gorn="0.3.0.0.0.0.0.0.0.0.2.0" fill="#696969">2</text>
+                                        </g>
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="2.56" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.3" font-style="normal" stroke-linejoin="miter" id="text4208" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4210"  x="4.3831663" y="345.14719" gorn="0.3.0.0.0.0.0.0.0.0.3.0" fill="#696969">1</text>
+                                        </g>
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="2.56" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#000000" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.4" font-style="normal" stroke-linejoin="miter" id="text4212" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4214"  x="48.632275" y="337.94626" gorn="0.3.0.0.0.0.0.0.0.0.4.0" fill="#696969">3</text>
+                                        </g>
+                                        <path id="connector0pin" d="M 7.0965554,332.20642 H 0"  fill-rule="evenodd" stroke-width="0.63999999" stroke-linecap="butt" gorn="0.3.0.0.0.0.0.0.0.0.5" stroke-opacity="1" stroke="#696969" stroke-linejoin="miter" fill="#696969"/>
+                                        <rect id="connector0terminal"  x="-0.327737" y="332.20599" stroke-width="0" gorn="0.3.0.0.0.0.0.0.0.0.6" stroke="none" height="0.00128" fill="none" width="0.0154731"/>
+                                        <path id="connector1pin" d="M 7.0965554,346.63323 H 0"  fill-rule="evenodd" stroke-width="0.63999999" stroke-linecap="butt" gorn="0.3.0.0.0.0.0.0.0.0.7" stroke-opacity="1" stroke="#696969" stroke-linejoin="miter" fill="#696969"/>
+                                        <rect id="connector1terminal"  x="-0.327737" y="346.633" stroke-width="0" gorn="0.3.0.0.0.0.0.0.0.0.8" stroke="none" height="0.00128" fill="none" width="0.0154731"/>
+                                        <path id="connector2pin" d="M 51.114943,339.43827 H 44.018388"  fill-rule="evenodd" stroke-width="0.63999999" stroke-linecap="butt" gorn="0.3.0.0.0.0.0.0.0.0.9" stroke-opacity="1" stroke="#696969" stroke-linejoin="miter" fill="#000000"/>
+                                        <rect id="connector2terminal"  x="51.4272" y="339.43799" stroke-width="0" gorn="0.3.0.0.0.0.0.0.0.0.10" stroke="none" height="0.00128" fill="none" width="0.0154731"/>
+                                        <path id="path4253" d="M 7.0965554,324.58784 H 44.040388 v 29.77981 H 7.0965554 Z"  fill-rule="evenodd" stroke-width="0.63999999" stroke-linecap="butt" gorn="0.3.0.0.0.0.0.0.0.0.11" stroke-opacity="1" stroke="#000000" stroke-linejoin="miter" fill="none"/>
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="2.56" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#696969" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.12" font-style="normal" stroke-linejoin="miter" id="text4255" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4257"  x="16.175972" y="331.84094" gorn="0.3.0.0.0.0.0.0.0.0.12.0">Vcc</text>
+                                        </g>
+                                        <g stroke-linecap="butt" font-variant="normal"  stroke-width="0.80000001" font-weight="normal" font-size="2.56" xmlns:xml="http://www.w3.org/XML/1998/namespace" fill="#696969" font-stretch="normal" stroke="none" word-spacing="0" text-anchor="end" gorn="0.3.0.0.0.0.0.0.0.0.13" font-style="normal" stroke-linejoin="miter" id="text4259" xml:space="preserve" fill-opacity="1" text-align="end" letter-spacing="0" writing-mode="lr-tb" line-height="125%" font-family="'Droid Sans'" stroke-opacity="1">
+                                            <text id="tspan4261"  x="17.79357" y="350.7825" gorn="0.3.0.0.0.0.0.0.0.0.13.0">GND</text>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

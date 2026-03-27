@@ -1,0 +1,1726 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg85" width="2.1259842in" viewBox="0 0 2125.9842 1410.0001" gorn="0" version="1.2" height="1.4100001in" >
+    <desc id="desc2791" >
+        <referenceFile >Mega2560 R3 Pro Mini_sch.svg</referenceFile>
+    </desc>
+    <metadata id="metadata91" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs89" />
+    <g transform="rotate(-90,259,-133.99999)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g id="g2839" gorn="0.3.0.0.0.0.0.0.0.0" >
+                                        <g id="g2837" gorn="0.3.0.0.0.0.0.0.0.0.0" >
+                                            <g id="g2835" gorn="0.3.0.0.0.0.0.0.0.0.0.0" >
+                                                <g id="g2833" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g2831" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g2829" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="silkscreen" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke-width="1" stroke="#000000" >
+                                                                <g transform="rotate(90)" >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g id="g2806" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                                    <g id="g2804" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                                        <g id="g2802" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                                            <g id="g2800" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                                                <g id="g2798" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                                                    <g id="g2796" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                                                                        <rect id="rect1278" width="2118.5989" x="-389.30728" y="-122.22318" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke-width="7.38541698" fill="none" stroke-opacity="1" height="1403.5305" style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.5;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" stroke="#000000" fill-opacity="1" />
+                                                                                                                    </g>
+                                                                                                                </g>
+                                                                                                            </g>
+                                                                                                        </g>
+                                                                                                    </g>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <line id="line4" x1="-79.999992" y1="20" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.1" stroke-width="10" x2="-79.999992" y2="1720" stroke="#000000" />
+                                                                <line id="line6" x1="-79.999992" y1="1720" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2" stroke-width="10" x2="120.00001" y2="1720" stroke="#000000" />
+                                                                <line id="line8" x1="120.00001" y1="1720" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.3" stroke-width="10" x2="120.00001" y2="20" stroke="#000000" />
+                                                                <line id="line10" x1="120.00001" y1="20" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.4" stroke-width="10" x2="-85.139587" y2="20" stroke="#000000" />
+                                                                <line id="line12" x1="-80.232224" y1="55" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5" stroke-width="5" x2="-45.232227" y2="20" stroke="#000000" />
+                                                                <line id="line964" x1="-1280" y1="120.00001" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.6" stroke-width="10" x2="-1280" y2="1720" stroke="#000000" />
+                                                                <line id="line966" x1="-1280" y1="1720" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.7" stroke-width="10" x2="-1080" y2="1720" stroke="#000000" />
+                                                                <line id="line968" x1="-1080" y1="1720" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8" stroke-width="10" x2="-1080" y2="120.00001" stroke="#000000" />
+                                                                <line id="line970" x1="-1080" y1="120.00001" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.9" stroke-width="10" x2="-1280" y2="120.00001" stroke="#000000" />
+                                                                <line id="line972" x1="-1280" y1="155.00002" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.10" stroke-width="5" x2="-1245" y2="120.00001" stroke="#000000" />
+                                                                <line id="line1084" x1="-1280" y1="-380" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.11" stroke-width="10" x2="-1280" y2="20" stroke="#000000" />
+                                                                <line id="line1086" x1="-1280" y1="20" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.12" stroke-width="10" x2="-1080" y2="20" stroke="#000000" />
+                                                                <line id="line1088" x1="-1080" y1="20" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.13" stroke-width="10" x2="-1080" y2="-380" stroke="#000000" />
+                                                                <line id="line1090" x1="-1080" y1="-380" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.14" stroke-width="10" x2="-1280" y2="-380" stroke="#000000" />
+                                                                <line id="line1092" x1="-1280" y1="-345" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.15" stroke-width="5" x2="-1245" y2="-380" stroke="#000000" />
+                                                                <line id="line1238" x1="-80" y1="1520" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.16" stroke-width="10" x2="-485.01721" y2="1520" stroke="#000000" />
+                                                                <line id="line1240" x1="-480" y1="1520" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.17" stroke-width="10" x2="-480" y2="1720" stroke="#000000" />
+                                                                <line id="line1242" x1="-484.97644" y1="1720" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.18" stroke-width="10" x2="-80" y2="1720" stroke="#000000" />
+                                                                <line id="line1244" x1="-80" y1="1720" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.19" stroke-width="10" x2="-80" y2="1520" stroke="#000000" />
+                                                                <line id="line1246" x1="-115" y1="1520" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.20" stroke-width="5" x2="-80" y2="1555" stroke="#000000" />
+                                                                <line id="line3078" x1="-80.232246" y1="-380" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.21" stroke-width="10" x2="-80.232246" y2="-80.000008" stroke="#000000" />
+                                                                <line id="line3080" x1="-84.84713" y1="-80" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.22" stroke-width="10" x2="124.84418" y2="-80" stroke="#000000" />
+                                                                <line id="line3082" x1="119.76778" y1="-80.000008" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.23" stroke-width="10" x2="119.76778" y2="-380" stroke="#000000" />
+                                                                <line id="line3084" x1="124.84418" y1="-380.57687" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.24" stroke-width="10" x2="-85.19326" y2="-380.57687" stroke="#000000" />
+                                                                <line id="line3086" x1="-80.232224" y1="-345" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.25" stroke-width="5" x2="-45.232224" y2="-380" stroke="#000000" />
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="copper1" gorn="0.4" >
+        <g id="copper0" gorn="0.4.0" >
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector0pad" cx="-155" gorn="0.4.0.0.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="463" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector1pad" cx="-155" gorn="0.4.0.1.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector2pad" cx="-155" gorn="0.4.0.2.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector3pad" cx="-155" gorn="0.4.0.3.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector4pad" cx="-155" gorn="0.4.0.4.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector5pad" cx="-155" gorn="0.4.0.5.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector6pad" cx="-155" gorn="0.4.0.6.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector7pad" cx="-155" gorn="0.4.0.7.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1163" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector8pad" cx="-155" gorn="0.4.0.8.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector9pad" cx="-155" gorn="0.4.0.9.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1363" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector10pad" cx="-155" gorn="0.4.0.10.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1463" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector11pad" cx="-155" gorn="0.4.0.11.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector12pad" cx="-155" gorn="0.4.0.12.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector13pad" cx="-155" gorn="0.4.0.13.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector14pad" cx="-155" gorn="0.4.0.14.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector15pad" cx="-155.00003" gorn="0.4.0.15.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector46pad" cx="-155.00003" gorn="0.4.0.16.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="2063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector47pad" cx="-55.000027" gorn="0.4.0.17.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="2063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector48pad" cx="-55.000027" gorn="0.4.0.18.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector49pad" cx="-55.000004" gorn="0.4.0.19.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector50pad" cx="-55.000004" gorn="0.4.0.20.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector51pad" cx="-55.000004" gorn="0.4.0.21.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector52pad" cx="-55.000004" gorn="0.4.0.22.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector53pad" cx="-55.000004" gorn="0.4.0.23.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1463" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector234pad" cx="-55.000004" gorn="0.4.0.24.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1363" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector235pad" cx="-55.000004" gorn="0.4.0.25.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector236pad" cx="-55.000004" gorn="0.4.0.26.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1163" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector237pad" cx="-55.000004" gorn="0.4.0.27.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector238pad" cx="-55.000004" gorn="0.4.0.28.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector239pad" cx="-55.000004" gorn="0.4.0.29.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector240pad" cx="-55.000004" gorn="0.4.0.30.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector241pad" cx="-55.000004" gorn="0.4.0.31.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector242pad" cx="-55.000004" gorn="0.4.0.32.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector243pad" cx="-55.000004" gorn="0.4.0.33.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="463" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector254pad" cx="-1355" gorn="0.4.0.34.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector255pad" cx="-1355" gorn="0.4.0.35.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector256pad" cx="-1355" gorn="0.4.0.36.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector257pad" cx="-1355" gorn="0.4.0.37.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector258pad" cx="-1355" gorn="0.4.0.38.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector259pad" cx="-1355" gorn="0.4.0.39.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector260pad" cx="-1355" gorn="0.4.0.40.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1163" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector261pad" cx="-1355" gorn="0.4.0.41.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector262pad" cx="-1355" gorn="0.4.0.42.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1363" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector263pad" cx="-1355" gorn="0.4.0.43.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1463" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector264pad" cx="-1355" gorn="0.4.0.44.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector265pad" cx="-1355" gorn="0.4.0.45.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector266pad" cx="-1355" gorn="0.4.0.46.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector267pad" cx="-1355" gorn="0.4.0.47.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector268pad" cx="-1355" gorn="0.4.0.48.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector269pad" cx="-1355" gorn="0.4.0.49.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="2063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector343pad" cx="-1255" gorn="0.4.0.50.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="2063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector344pad" cx="-1255" gorn="0.4.0.51.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector345pad" cx="-1255" gorn="0.4.0.52.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector346pad" cx="-1255" gorn="0.4.0.53.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector347pad" cx="-1255" gorn="0.4.0.54.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector348pad" cx="-1255" gorn="0.4.0.55.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector349pad" cx="-1255" gorn="0.4.0.56.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1463" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector350pad" cx="-1255" gorn="0.4.0.57.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1363" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector351pad" cx="-1255" gorn="0.4.0.58.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector352pad" cx="-1255" gorn="0.4.0.59.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1163" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector353pad" cx="-1255" gorn="0.4.0.60.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="1063" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector354pad" cx="-1255" gorn="0.4.0.61.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="963" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector355pad" cx="-1255" gorn="0.4.0.62.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="863" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector356pad" cx="-1255" gorn="0.4.0.63.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="763" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector357pad" cx="-1255" gorn="0.4.0.64.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="663" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector358pad" cx="-1255" gorn="0.4.0.65.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="563" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector359pad" cx="-1355" gorn="0.4.0.66.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="62.999989" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector360pad" cx="-1355" gorn="0.4.0.67.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="162.99998" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector361pad" cx="-1355" gorn="0.4.0.68.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector362pad" cx="-1355" gorn="0.4.0.69.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="363" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector363pad" cx="-1255" gorn="0.4.0.70.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="363" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector364pad" cx="-1255" gorn="0.4.0.71.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector365pad" cx="-1255" gorn="0.4.0.72.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="162.99998" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector366pad" cx="-1255" gorn="0.4.0.73.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="62.999989" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-180,196.49999,62.500005)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g id="g2926" gorn="0.4.0.74.0.0.0.0.0.0.0.0" >
+                                                <g id="g2924" gorn="0.4.0.74.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g2922" gorn="0.4.0.74.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g2920" gorn="0.4.0.74.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g2918" gorn="0.4.0.74.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="g2916" gorn="0.4.0.74.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <circle id="connector367pad" cx="-1570" gorn="0.4.0.74.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-130" stroke="#ffbf00" />
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector368pad" cx="-1963" gorn="0.4.0.75.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-355" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector375pin" cx="-1973" gorn="0.4.0.76.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-895.00012" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector369pad" cx="-1963" gorn="0.4.0.77.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-455" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector377pin" cx="-1973" gorn="0.4.0.78.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-995.00012" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector370pad" cx="-1963" gorn="0.4.0.79.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-555" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector379pin" cx="-1973" gorn="0.4.0.80.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-1095.0001" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector371pad" cx="-2063" gorn="0.4.0.81.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-555" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector380pin" cx="-2073" gorn="0.4.0.82.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-1095.0001" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector372pad" cx="-2063" gorn="0.4.0.83.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-455" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector378pin" cx="-2073" gorn="0.4.0.84.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-995.00012" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector373pad" cx="-2063" gorn="0.4.0.85.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-355" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="scale(-1)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector376pin" cx="-2073" gorn="0.4.0.86.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-895.00012" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-180,196.49999,62.500005)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g id="g3017" gorn="0.4.0.87.0.0.0.0.0.0.0.0" >
+                                                <g id="g3015" gorn="0.4.0.87.0.0.0.0.0.0.0.0.0" >
+                                                    <g id="g3013" gorn="0.4.0.87.0.0.0.0.0.0.0.0.0.0" >
+                                                        <g id="g3011" gorn="0.4.0.87.0.0.0.0.0.0.0.0.0.0.0" >
+                                                            <g id="g3009" gorn="0.4.0.87.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                <g id="g3007" gorn="0.4.0.87.0.0.0.0.0.0.0.0.0.0.0.0.0" >
+                                                                    <circle id="connector374pad" cx="-1670" gorn="0.4.0.87.0.0.0.0.0.0.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="-130" stroke="#ffbf00" />
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector381pin" cx="-55.000004" gorn="0.4.0.88.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="62.999989" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector384pin" cx="-155" gorn="0.4.0.89.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="62.999989" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector385pin" cx="-155" gorn="0.4.0.90.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="163" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector386pin" cx="-155" gorn="0.4.0.91.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector383pin" cx="-55.000004" gorn="0.4.0.92.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="263" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="rotate(-90)" >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <circle id="connector382pin" cx="-55.000004" gorn="0.4.0.93.0.0.0.0.0.0.0.0" stroke-width="20" fill="none" r="29" cy="163" stroke="#ffbf00" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

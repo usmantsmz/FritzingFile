@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<module fritzingVersion="0.9.4" moduleId="MPS20N0040D_Module">
+  <version>1</version>
+  <author>Peter Harrison</author>
+  <title>MPS20N0040D</title>
+  <label>M</label>
+  <date>Sun Apr 10 2022</date>
+  <tags>
+    <tag>MPS20N0040D</tag>
+    <tag>presure</tag>
+    <tag>sensor</tag>
+    <tag>HX710B</tag>
+    <tag>ADC</tag>
+  </tags>
+  <properties>
+    <property name="family">Sensor</property>
+    <property name="variant">variant 1</property>
+    <property name="layer"/>
+    <property name="type">Pressure</property>
+    <property name="model">MPS20N0040D/HX710B</property>
+    <property name="pins">4</property>
+    <property name="part number"/>
+  </properties>
+  <taxonomy>part.sensor.4.pins</taxonomy>
+  <description> &lt;p&gt;MPS20N0040D Sphygmomanometer 0-40kPa Differential Air Pressure Sensor / HX710B ADC Module&lt;/p&gt;
+	&lt;p&gt;This module couples a MPS20N0040D sphygmomanometer air pressure sensor module with an HX710B analog-to-digital converter IC. It can be powered from a 3.3V or 5V source, with a claimed measurement range of 0-40kPa. It uses a proprietary 2-wire communication protocol and is thus not I&lt;sup&gt;2&lt;/sup&gt;C compatible.&lt;/p&gt;
+	&lt;strong&gt;Links: &lt;/strong&gt;&lt;/p&gt;
+	&lt;ul&gt;
+	  &lt;li&gt;
+		&lt;a href="https://softroboticstoolkit.com/files/sorotoolkit/files/mps20n0040d-s_datasheet.pdf" target="_blank"&gt; MPS20N0040D Datasheet&lt;/a&gt;
+	  &lt;/li&gt;
+	  &lt;li&gt;
+		&lt;a href="https://img.ozdisan.com/ETicaret_Dosya/470782_5454613.PDF" target="_blank"&gt; HX710A/B Datasheet&lt;/a&gt;
+	  &lt;/li&gt;
+	  &lt;li&gt;
+		&lt;a href="https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf" target="_blank"&gt; HX711 Datasheet&lt;/a&gt;
+	  &lt;/li&gt;
+	&lt;/ul&gt;
+  </description>
+  <views>
+    <breadboardView>
+      <layers image="breadboard/MPS20N0040D_Module_breadboard.svg">
+        <layer layerId="breadboard"/>
+      </layers>
+    </breadboardView>
+    <schematicView>
+      <layers image="schematic/MPS20N0040D_Module_schematic.svg">
+        <layer layerId="schematic"/>
+      </layers>
+    </schematicView>
+    <pcbView>
+      <layers image="pcb/MPS20N0040D_Module_pcb.svg">
+        <layer layerId="silkscreen"/>
+        <layer layerId="copper0"/>
+        <layer layerId="copper1"/>
+      </layers>
+    </pcbView>
+    <iconView>
+      <layers image="icon/MPS20N0040D_Module_icon.svg">
+        <layer layerId="icon"/>
+      </layers>
+    </iconView>
+  </views>
+  <connectors>
+    <connector type="male" name="VCC" id="connector0">
+      <description>VCC</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector0pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector0pad" layer="copper0"/>
+          <p svgId="connector0pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector type="male" name="OUT" id="connector1">
+      <description>OUT</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector1pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector1pad" layer="copper0"/>
+          <p svgId="connector1pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector type="male" name="SCK" id="connector2">
+      <description>SCK</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector2pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector2pad" layer="copper0"/>
+          <p svgId="connector2pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector type="male" name="GND" id="connector3">
+      <description>GND</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector3pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p terminalId="connector3terminal" svgId="connector3pin" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector3pad" layer="copper0"/>
+          <p svgId="connector3pad" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+  </connectors>
+</module>

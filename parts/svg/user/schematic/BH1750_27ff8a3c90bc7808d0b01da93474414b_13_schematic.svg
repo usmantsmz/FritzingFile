@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg"  height="0.620278in" xmlns:xml="http://www.w3.org/XML/1998/namespace" enable-background="new -6.718 -0.5 71.618 44.66" gorn="0" version="1.1" id="_x30_" x="0px" y="0px" width="0.994694in" xml:space="preserve" viewBox="0 0 71.618 44.66">
+    <g transform="translate(6.718,0.5)" >
+        <g >
+            <g >
+                <g >
+                    <desc  id="0.0.0">
+                        <referenceFile  id="0.0.0.0">Schematic.AD584.svg</referenceFile>
+                    </desc>
+                    <rect  height="0.071" gorn="0.0.0.0.0.1" id="connector1terminal" x="0" y="7.128" width="0.004" fill="none"/>
+                    <rect  height="0.005" gorn="0.0.0.0.0.2" id="connector2terminal" x="0" y="14.396" width="0.071" fill="none"/>
+                    <line x2="50.494"  stroke-width="1" gorn="0.0.0.0.0.3" id="connector9pin" fill="none" y1="14.4" stroke="#000000" y2="14.4" x1="64.899"/>
+                    <polygon  gorn="0.0.0.0.0.4" id="connector3terminal" fill="none" points="64.802,14.396 64.895,14.396 64.895,14.4 64.895,14.4 "/>
+                    <line x2="64.895"  stroke-width="1" gorn="0.0.0.0.0.5" id="connector8pin" fill="none" y1="7.201" stroke="#000000" y2="7.201" x1="50.494"/>
+                    <polygon  gorn="0.0.0.0.0.6" id="connector4terminal" fill="none" points="64.802,7.054 64.808,7.054 64.895,7.201 64.802,7.201 "/>
+                    <g transform="matrix(0.8074 0 0 1 43.0447 24.0686)" >
+                        <g >
+                            <g >
+                                <text  font-family="Droid Sans" gorn="0.0.0.0.0.7.0.0.0" id="_x30_.1.16" font-size="4">SCL</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.8074 0 0 1 42.2947 16.9358)" >
+                        <g >
+                            <g >
+                                <text  font-family="Droid Sans" font-size="4">GND</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.8074 0 0 1 42.2947 9.7356)" >
+                        <g >
+                            <g >
+                                <text  font-family="Droid Sans" gorn="0.0.0.0.0.9.0.0.0" id="_x30_.1.16_4_" font-size="4">VCC</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.9059 0 0 1 13.2366 23.6526)" >
+                        <g >
+                            <g >
+                                <text  font-family="Droid Sans" gorn="0.0.0.0.0.10.0.0.0" id="_x30_.1.22" font-size="4">BH1750</text>
+                            </g>
+                        </g>
+                    </g>
+                    <polygon  stroke-width="1" fill="none" stroke="#000000" points="-6.218,0 50.494,0.003 50.494,43.66 -6.218,43.66 "/>
+                    <line x2="50.492"  stroke-width="1" gorn="0.0.0.0.0.12" id="connector10pin" fill="none" y1="21.741" stroke="#000000" y2="21.741" x1="64.897"/>
+                    <polygon  gorn="0.0.0.0.0.13" id="connector3terminal_1_" fill="none" points="64.8,21.738 64.893,21.738 64.893,21.741 64.893,21.741 "/>
+                    <polygon  gorn="0.0.0.0.0.14" id="connector4terminal_1_" fill="none" points="64.8,14.396 64.806,14.396 64.893,14.543 64.8,14.543 "/>
+                    <line x2="50.495"  stroke-width="1" gorn="0.0.0.0.0.15" id="connector12pin" fill="none" y1="28.833" stroke="#000000" y2="28.833" x1="64.9"/>
+                    <polygon  gorn="0.0.0.0.0.16" id="connector3terminal_3_" fill="none" points="64.802,28.829 64.896,28.829 64.896,28.833 64.896,28.833 "/>
+                    <polygon  gorn="0.0.0.0.0.17" id="connector4terminal_3_" fill="none" points="64.802,21.488 64.809,21.488 64.896,21.635 64.802,21.635 "/>
+                    <line x2="50.493"  stroke-width="1" gorn="0.0.0.0.0.18" id="connector13pin" fill="none" y1="36.175" stroke="#000000" y2="36.175" x1="64.898"/>
+                    <polygon  gorn="0.0.0.0.0.19" id="connector3terminal_2_" fill="none" points="64.801,36.171 64.894,36.171 64.894,36.175 64.894,36.175 "/>
+                    <polygon  gorn="0.0.0.0.0.20" id="connector4terminal_2_" fill="none" points="64.801,28.829 64.807,28.829 64.894,28.977 64.801,28.977 "/>
+                    <polygon  gorn="0.0.0.0.0.21" id="connector3terminal_7_" fill="none" points="64.802,43.513 64.896,43.513 64.896,43.517 64.896,43.517 "/>
+                    <polygon  gorn="0.0.0.0.0.22" id="connector4terminal_7_" fill="none" points="64.802,36.171 64.809,36.171 64.896,36.319 64.802,36.319 "/>
+                    <polygon  gorn="0.0.0.0.0.23" id="connector4terminal_6_" fill="none" points="64.801,43.513 64.807,43.513 64.894,43.66 64.801,43.66 "/>
+                    <g transform="matrix(0.8074 0 0 1 40.2947 38.6018)" >
+                        <g >
+                            <g >
+                                <text  font-family="Droid Sans" font-size="4">ADDR</text>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.8074 0 0 1 42.7107 31.4026)" >
+                        <g >
+                            <g >
+                                <text  font-family="Droid Sans" gorn="0.0.0.0.0.25.0.0.0" id="_x30_.1.16_1_" font-size="4">SDA</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

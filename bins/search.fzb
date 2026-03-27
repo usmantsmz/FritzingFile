@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="lcd">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="LCD1602-I2C" modelIndex="85521698" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/LCD1602-I2C_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD2004-I2C" modelIndex="85521699" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/LCD2004-I2C.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Nextion 2.4 LCD_91b74dedb67f6fa048d6c00ab0db925d_47" modelIndex="85521700" path="C:/Users/uarti/OneDrive/Documents/Fritzing/parts/user/Nextion 2.4 LCD_91b74dedb67f6fa048d6c00ab0db925d_47.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GLCD128x64" modelIndex="85521701" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/GLCD 128x64.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-WATN001002BF-" modelIndex="85521702" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-watn001002bf-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-TOUCH-SCREEN-" modelIndex="85521703" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-touch-screen-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LCD-GDM1602K" modelIndex="85521704" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/lcd-GDM1602K.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RevEd_FRM010" modelIndex="85521705" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/FRM010.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="85521706" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10x2-Epaper-Breakout-Board-v11" modelIndex="85521707" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/10x2-Epaper-Breakout-Board-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD_BACKLIGHT_PADS-" modelIndex="85521708" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd_backlight_pads-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-DS_TOUCH_CONNECTOR-" modelIndex="85521709" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-ds_touch_connector-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_CAN-Bus_Shield" modelIndex="85521710" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/SparkFun_CAN-Bus_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-NOHOLES" modelIndex="85521711" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-noholes.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-NOKIA6100_LCD-" modelIndex="85521712" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-nokia6100_lcd-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-PSP_TOUCH_CONNECTOR-" modelIndex="85521713" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-psp_touch_connector-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-8X2" modelIndex="85521714" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-8x2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-G12864-BARE" modelIndex="85521715" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-g12864-bare.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-PSP_CONNECTOR-" modelIndex="85521716" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-psp_connector-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Color-LCD-Shield-v14" modelIndex="85521717" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/Color-LCD-Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="canbus_shield-v12" modelIndex="85521718" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/canbus_shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD_CFAX-" modelIndex="85521719" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd_cfax-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M10X2-SPECIAL" modelIndex="85521720" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m10x2-special.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-G12864-FULL" modelIndex="85521721" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-g12864-full.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-SILK" modelIndex="85521722" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-silk.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M10X2-2X10_LOCK" modelIndex="85521723" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m10x2-2x10_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-KENT_LCD_CONN-" modelIndex="85521724" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-kent_lcd_conn-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LeDeuligne1.1" modelIndex="85521725" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/LeDeuligne1.1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-NOSILK" modelIndex="85521726" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-nosilk.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Displays-LCD-16X2-8X2-KIT" modelIndex="85521727" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-displays-lcd-16x2-8x2-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="85521728" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="85521729" path="C:/Users/uarti/OneDrive/Documents/fritzing.0.9.3b.64.pc/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

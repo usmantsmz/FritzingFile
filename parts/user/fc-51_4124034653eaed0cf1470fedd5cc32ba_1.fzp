@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<module moduleId="fc-51_4124034653eaed0cf1470fedd5cc32ba_1" referenceFile="fc-51_4124034653eaed0cf1470fedd5cc32ba_1.fzp" fritzingVersion="0.9.3b">
+  <version>4</version>
+  <author>Peter Van Epp (vanepp in forums)</author>
+  <title>hcmmodu0083</title>
+  <label>M</label>
+  <date>Wed Mar 7 2018</date>
+  <tags>
+    <tag>hcmmodu0083</tag>
+    <tag>mosfet driver moduler</tag>
+    <tag>contrib</tag>
+    <tag>fritzing user</tag>
+  </tags>
+  <properties>
+    <property name="package">THT</property>
+    <property name="layout">Single Row</property>
+    <property name="layer"/>
+    <property name="variant">variant 1</property>
+    <property name="family">mosfet driver module</property>
+    <property name="part number"/>
+    <property name="pin spacing">100mil</property>
+    <property name="pins">3</property>
+    <property name="hole size"/>
+    <property name="editable pin labels">false</property>
+  </properties>
+  <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd"&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name="qrichtext" content="1" /&gt;&lt;style type="text/css"&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;"&gt;
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"&gt;hcmmodu0083 IRF540 Mosfet driver module&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description>
+  <views>
+    <iconView>
+      <layers image="icon/fc-51_4124034653eaed0cf1470fedd5cc32ba_1_icon.svg">
+        <layer layerId="icon"/>
+      </layers>
+    </iconView>
+    <breadboardView>
+      <layers image="breadboard/fc-51_4124034653eaed0cf1470fedd5cc32ba_1_breadboard.svg">
+        <layer layerId="breadboard"/>
+      </layers>
+    </breadboardView>
+    <schematicView>
+      <layers image="schematic/fc-51_4124034653eaed0cf1470fedd5cc32ba_1_schematic.svg">
+        <layer layerId="schematic"/>
+      </layers>
+    </schematicView>
+    <pcbView>
+      <layers image="pcb/fc-51_4124034653eaed0cf1470fedd5cc32ba_1_pcb.svg">
+        <layer layerId="silkscreen"/>
+        <layer layerId="copper0"/>
+        <layer layerId="copper1"/>
+      </layers>
+    </pcbView>
+  </views>
+  <connectors>
+    <connector name="pin1" type="male" id="connector0">
+      <description>SIG</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector0pin" terminalId="connector0terminal" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector0pin" layer="copper0"/>
+          <p svgId="connector0pin" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector name="pin2" type="male" id="connector1">
+      <description>VCC (NC)</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector1pin" terminalId="connector1terminal" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector1pin" layer="copper0"/>
+          <p svgId="connector1pin" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector name="pin3" type="male" id="connector2">
+      <description>GND</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector2pin" terminalId="connector2terminal" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+          <p svgId="connector2pin" layer="copper0"/>
+          <p svgId="connector2pin" layer="copper1"/>
+        </pcbView>
+      </views>
+    </connector>
+    <connector name="pin4" type="male" id="connector3">
+      <description>GND</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector3pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector3pin" terminalId="connector3terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+    </pcbView>
+      </views>
+    </connector>
+    <connector name="pin5" type="male" id="connector4">
+      <description>VIN</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector4pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector4pin" terminalId="connector4terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+    </pcbView>
+      </views>
+    </connector>
+    <connector name="pin6" type="male" id="connector5">
+      <description>V-</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector5pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector5pin" terminalId="connector5terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+    </pcbView>
+      </views>
+    </connector>
+    <connector name="pin7" type="male" id="connector6">
+      <description>V-</description>
+      <views>
+        <breadboardView>
+          <p svgId="connector6pin" layer="breadboard"/>
+        </breadboardView>
+        <schematicView>
+          <p svgId="connector6pin" terminalId="connector6terminal" layer="schematic"/>
+        </schematicView>
+        <pcbView>
+    </pcbView>
+      </views>
+    </connector>
+  </connectors>
+  <url>http://forum.hobbycomponents.com/viewtopic.php?f=76&amp;t=1872</url>
+</module>

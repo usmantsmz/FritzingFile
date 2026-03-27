@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" gorn="0" viewBox="0 0 109.00001 414.00004"  height="0.41400003in" y="0in" width="0.109in" version="1.2" id="svg2">
+    <metadata  id="metadata28">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs26"/>
+    <desc  id="desc4">
+        <referenceFile >dip_4_400mil_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.3"  id="copper1">
+        <g gorn="0.3.0"  id="copper0">
+            <rect x="25.000002" gorn="0.3.0.0" style="fill:none;stroke:#ffbf00;stroke-width:20"  height="58.000008" y="27.000017" width="58.000011" id="square"/>
+            <circle gorn="0.3.0.1" style="fill:none;stroke:#ffbf00;stroke-width:20"  cy="55.500061" r="29.000004" id="connector0pin" cx="54.000004"/>
+            <circle gorn="0.3.0.2" style="fill:none;stroke:#ffbf00;stroke-width:20"  cy="355.50006" r="29.000004" id="connector3pin" cx="54.000004"/>
+            <circle gorn="0.3.0.3" style="fill:none;stroke:#ffbf00;stroke-width:20"  cy="155.50006" r="29.000004" id="connector1pin" cx="54.000004"/>
+            <circle gorn="0.3.0.4" style="fill:none;stroke:#ffbf00;stroke-width:20"  cy="255.50006" r="29.000004" id="connector2pin" cx="54.000004"/>
+        </g>
+    </g>
+    <g gorn="0.4"  id="silkscreen">
+        <line gorn="0.4.0" style="stroke:#000000;stroke-width:10" y1="409.00003"  x1="4.9999981" y2="409.00003" x2="103.00001" id="line16"/>
+        <line gorn="0.4.1" style="stroke:#000000;stroke-width:10" y1="409.00003"  x1="104.00001" y2="9.0000114" x2="104.00001" id="line18"/>
+        <line gorn="0.4.2" style="stroke:#000000;stroke-width:10" y1="4.999979"  x1="4.9999976" y2="4.999979" x2="103.00001" id="line20"/>
+        <line gorn="0.4.3" style="stroke:#000000;stroke-width:10" y1="9.0000248"  x1="5" y2="409.00003" x2="5" id="line14"/>
+    </g>
+</svg>

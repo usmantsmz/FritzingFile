@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="0"  version="1.2" gorn="0" height="0.34in" width="0.14in" viewBox="0 0 140 340">
+    <metadata id="metadata21" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs19" />
+    <desc id="0.0" >
+        <referenceFile id="0.0.0" >Pulse_Sensor_9b42ac4ae84eebb2bab0e9098e88835f_5_pcb.svg</referenceFile>
+    </desc>
+    <desc id="0.1" >Fritzing
+    footprint
+    SVG</desc>
+    <g id="silkscreen"  gorn="0.4">
+        <line id="0.1.0"  y1="20" y2="320" stroke-width="10" x1="20" gorn="0.4.0" x2="20" stroke="#000000"/>
+        <line id="0.1.1"  y1="320" y2="320" stroke-width="10" x1="20" gorn="0.4.1" x2="120" stroke="#000000"/>
+        <line id="0.1.2"  y1="320" y2="20" stroke-width="10" x1="120" gorn="0.4.2" x2="120" stroke="#000000"/>
+        <line id="0.1.3"  y1="20" y2="20" stroke-width="10" x1="120" gorn="0.4.3" x2="20" stroke="#000000"/>
+        <line id="0.1.4"  y1="55" y2="20" stroke-width="5" x1="20" gorn="0.4.4" x2="55" stroke="#000000"/>
+        <!-- 120 -->
+    </g>
+    <g id="copper1"  gorn="0.5">
+        <g id="copper0"  gorn="0.5.0">
+            <rect id="square"  x="41" y="41" stroke-width="20" gorn="0.5.0.0" stroke="rgb(255, 191, 0)" height="58" fill="none" width="58"/>
+            <circle id="connector0pin"  cx="70" cy="70" stroke-width="20" gorn="0.5.0.1" stroke="rgb(255, 191, 0)" fill="none" r="29"/>
+            <rect  x="71.0113" y="71.0113" stroke-width="0" stroke="none" height="0.156" fill="none" width="0.156"/>
+            <circle id="connector1pin"  cx="70" cy="170" stroke-width="20" gorn="0.5.0.3" stroke="rgb(255, 191, 0)" fill="none" r="29"/>
+            <circle id="connector2pin"  cx="70" cy="270" stroke-width="20" gorn="0.5.0.4" stroke="rgb(255, 191, 0)" fill="none" r="29"/>
+        </g>
+    </g>
+</svg>

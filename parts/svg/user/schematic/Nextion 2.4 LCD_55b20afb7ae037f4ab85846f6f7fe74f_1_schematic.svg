@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 90.000002 153.00001" gorn="0" version="1.1" id="svg9005" width="1in" height="1.7in">
+    <desc >
+        <referenceFile >2.8lcd_schematic.svg</referenceFile>
+    </desc>
+    <defs  id="defs9007"/>
+    <metadata  id="metadata9010">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(0,-8.9999957)">
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <rect style="opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;"  y="17.535824" stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.0" stroke-width="0.87168401" id="rect9555" fill-opacity="1" stroke="#000000" x="8.9858418" width="72.028313" height="135.02834" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.1" d="m 0,26.550055 9,0" stroke-width="0.89999998" id="connector0pin" stroke="#787878" fill="none"/>
+                                <rect  y="26.5492" gorn="0.3.0.0.0.0.0.0.2" stroke-width="0" id="connector0terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.3" d="m 0,35.550055 9,0" stroke-width="0.89999998" id="connector1pin" stroke="#787878" fill="none"/>
+                                <rect  y="35.5492" gorn="0.3.0.0.0.0.0.0.4" stroke-width="0" id="connector1terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.5" d="m 0,44.550055 9,0" stroke-width="0.89999998" id="connector2pin" stroke="#787878" fill="none"/>
+                                <rect  y="44.5492" gorn="0.3.0.0.0.0.0.0.6" stroke-width="0" id="connector2terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.7" d="m 0,53.550055 9,0" stroke-width="0.89999998" id="connector3pin" stroke="#787878" fill="none"/>
+                                <rect  y="53.5492" gorn="0.3.0.0.0.0.0.0.8" stroke-width="0" id="connector3terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.9" d="m 0,62.550055 9,0" stroke-width="0.89999998" id="connector4pin" stroke="#787878" fill="none"/>
+                                <rect  y="62.5492" gorn="0.3.0.0.0.0.0.0.10" stroke-width="0" id="connector4terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.11" d="m 0,71.550055 9,0" stroke-width="0.89999998" id="connector5pin" stroke="#787878" fill="none"/>
+                                <rect  y="71.5492" gorn="0.3.0.0.0.0.0.0.12" stroke-width="0" id="connector5terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.13" d="m 0,80.550055 9,0" stroke-width="0.89999998" id="connector6pin" stroke="#787878" fill="none"/>
+                                <rect  y="80.5492" gorn="0.3.0.0.0.0.0.0.14" stroke-width="0" id="connector6terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.15" d="m 0,89.550055 9,0" stroke-width="0.89999998" id="connector7pin" stroke="#787878" fill="none"/>
+                                <rect  y="89.5492" gorn="0.3.0.0.0.0.0.0.16" stroke-width="0" id="connector7terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.17" d="m 0,98.550055 9,0" stroke-width="0.89999998" id="connector9pin" stroke="#787878" fill="none"/>
+                                <rect  y="98.5492" gorn="0.3.0.0.0.0.0.0.18" stroke-width="0" id="connector9terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.19" d="m 0,107.55006 9,0" stroke-width="0.89999998" id="connector10pin" stroke="#787878" fill="none"/>
+                                <rect  y="107.549" gorn="0.3.0.0.0.0.0.0.20" stroke-width="0" id="connector10terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.21" d="m 0,116.55006 9,0" stroke-width="0.89999998" id="connector11pin" stroke="#787878" fill="none"/>
+                                <rect  y="116.549" gorn="0.3.0.0.0.0.0.0.22" stroke-width="0" id="connector11terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.23" d="m 0,125.55001 9,0" stroke-width="0.89999998" id="connector12pin" stroke="#787878" fill="none"/>
+                                <rect  y="125.549" gorn="0.3.0.0.0.0.0.0.24" stroke-width="0" id="connector12terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.25" d="m 0,134.55001 9,0" stroke-width="0.89999998" id="connector13pin" stroke="#787878" fill="none"/>
+                                <rect  y="134.549" gorn="0.3.0.0.0.0.0.0.26" stroke-width="0" id="connector13terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.27" d="m 0,143.55001 9,0" stroke-width="0.89999998" id="connector14pin" stroke="#787878" fill="none"/>
+                                <rect  y="143.549" gorn="0.3.0.0.0.0.0.0.28" stroke-width="0" id="connector14terminal" stroke="none" x="-0.4599" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.29" d="m 81,71.550042 9,0" stroke-width="0.89999998" id="connector18pin" stroke="#787878" fill="none"/>
+                                <rect  y="71.5491" gorn="0.3.0.0.0.0.0.0.30" stroke-width="0" id="connector18terminal" stroke="none" x="90.4401" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.31" d="m 81,80.550042 9,0" stroke-width="0.89999998" id="connector17pin" stroke="#787878" fill="none"/>
+                                <rect  y="80.5491" gorn="0.3.0.0.0.0.0.0.32" stroke-width="0" id="connector17terminal" stroke="none" x="90.4401" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.33" d="m 81,89.550042 9,0" stroke-width="0.89999998" id="connector16pin" stroke="#787878" fill="none"/>
+                                <rect  y="89.5491" gorn="0.3.0.0.0.0.0.0.34" stroke-width="0" id="connector16terminal" stroke="none" x="90.4401" width="0.0198" height="0.0018" fill="none"/>
+                                <path style="fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;"  stroke-opacity="1" gorn="0.3.0.0.0.0.0.0.35" d="m 81,98.550046 9,0" stroke-width="0.89999998" id="connector15pin" stroke="#787878" fill="none"/>
+                                <rect  y="98.5491" gorn="0.3.0.0.0.0.0.0.36" stroke-width="0" id="connector15terminal" stroke="none" x="90.4401" width="0.0198" height="0.0018" fill="none"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
